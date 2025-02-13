@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Минимальная высота — весь экран */
+  background-color: #d86776; /* Светло-розовый фон */
+  font-family: Arial, sans-serif; /* Шрифт по умолчанию */
+}
+
+#root {
+  text-align: center;
+  width: 100%;
+}
