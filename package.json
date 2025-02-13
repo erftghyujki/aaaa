@@ -1,6 +1,7 @@
 {
   "name": "aaaa",
   "version": "0.1.0",
+  "homepage": "https://erftghyujki.github.io/aaaa",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
